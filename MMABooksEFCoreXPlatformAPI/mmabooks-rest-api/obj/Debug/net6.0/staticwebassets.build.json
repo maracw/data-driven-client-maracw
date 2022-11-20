@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o/jO0I3Q9eKjQVYQc1cKeMz6VDl3uc6qKZWhWJHbzGc=",
+  "Source": "mmabooks-rest-api",
+  "BasePath": "_content/mmabooks-rest-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

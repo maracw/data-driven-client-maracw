@@ -1,0 +1,15 @@
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettingsExample.json
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.deps.json
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.runtimeconfig.json
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.dll
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.AssemblyReference.cache
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfoInputs.cache
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfo.cs
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.CoreCompileInputs.cache
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.dll
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\refint\MMABooksEFClasses.dll
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.genruntimeconfig.cache
+C:\Repos\efcore_lab_2022-maracw\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\ref\MMABooksEFClasses.dll
